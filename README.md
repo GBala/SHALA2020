@@ -1,3 +1,3 @@
 # SHALA2020
-Data Science and Machine Learning
-Basic Data Visualisation, Data processing has been implemented.
+
+A few introductory data visualisation, data processing techniques have been implemented which are targeted for Machine Learning applications. 
